@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Evolutionary genetics of plant-insect interactions at Arizona State University"
+title: "The Coevolutionary Genetics Lab at Arizona State University"
 author_profile: true
 redirect_from: 
   - /about/
