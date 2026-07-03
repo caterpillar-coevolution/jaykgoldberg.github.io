@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to the website of the Coevolution Lab at Arizona State University! It is currently under development. Please check back soon to learn more about our work.
+Welcome to the website of the Coevolutionary Genetics Lab at Arizona State University! It is currently under development. Please check back soon to learn more about our work.
