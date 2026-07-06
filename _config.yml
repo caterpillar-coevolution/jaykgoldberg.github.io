@@ -23,7 +23,7 @@ repository               : "caterpillar-coevolution/jaykgoldberg.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "JKG_headshot_cropped.jpg"
   name             : "Jay Keche Goldberg"
   pronouns         : "he/him or they/them"  
   bio              : "Evolutionary genetics of plant-insect interactions in the Sonoran Desert."
