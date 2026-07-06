@@ -9,25 +9,25 @@
 
 main:
   - title: "Research"
-   url: /research/
-
-  - title: "Publications"
-   url: /publications/
+    url: /research/
 
   - title: "Teaching"
-   url: /teaching/    
-   
+    url: /teaching/    
+
+  - title: "Publications"
+    url: /publications/    
+    
   - title: "People"
-   url: /people/   
-   
-  - title: "join-us"
-   url: /join-us/
+    url: /people/
         
 #  - title: "Blog Posts"
 #    url: /year-archive/
     
-# - title: "CV"
-#   url: /cv-json/
+#  - title: "CV"
+#    url: /cv/
+    
+  # - title: "CV"
+  #   url: /cv-json/
     
 #  - title: "Guide"
 #    url: /markdown/
