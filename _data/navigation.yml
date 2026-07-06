@@ -11,20 +11,20 @@ main:
 - title: "Research"
    url: /research/
 
-- title: "People"
-   url: /people/    
+- title: "Publications"
+   url: /publications/
 
 - title: "Teaching"
    url: /teaching/    
-    
+   
+- title: "People"
+   url: /people/   
+   
 - title: "join-us"
    url: /join-us/
         
 #  - title: "Blog Posts"
 #    url: /year-archive/
-    
-#  - title: "CV"
-#    url: /cv/
     
 # - title: "CV"
 #   url: /cv-json/
